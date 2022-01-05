@@ -54,8 +54,7 @@ class HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // ignore: unnecessary_new
-    return new Scaffold(
+    return Scaffold(
       appBar: AppBar(
         // ignore: unnecessary_new
         title: const Text("Calculator"),
