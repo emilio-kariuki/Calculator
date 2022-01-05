@@ -113,7 +113,7 @@ class HomePageState extends State<HomePage> {
                 MaterialButton(
                   // ignore: prefer_const_constructors
                   child: Text("x"),
-                  color: Colors.greenAccent,
+                  color: Colors.yellowAccent,
                   onPressed: doMul,
                 ),
                 MaterialButton(
